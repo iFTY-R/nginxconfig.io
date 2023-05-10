@@ -431,3 +431,11 @@ THE SOFTWARE.
         },
     };
 </script>
+
+<style>
+.do-bulma .callout.floating,
+.emtQXs,
+.ecxdaK{
+    display:none;
+}
+</style>
