@@ -433,6 +433,7 @@ THE SOFTWARE.
 </script>
 
 <style>
+.eskszh,
 .do-bulma .callout.floating,
 .emtQXs,
 .ecxdaK{
